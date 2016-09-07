@@ -7,7 +7,6 @@ build/
 DerivedData/
 
 ## Various settings
-!.DS_Store
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -59,3 +58,5 @@ fastlane/screenshots
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+.DS_Store
